@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Toddle/static/css/main.3701265b.css",
+    "main.js": "/Toddle/static/js/main.1e287055.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Toddle/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Toddle-app-combination-logo-01.png": "/Toddle/static/media/Toddle-app-combination-logo-01.0da9aec6be8b425c167a.png",
+    "index.html": "/Toddle/index.html",
+    "main.3701265b.css.map": "/Toddle/static/css/main.3701265b.css.map",
+    "main.1e287055.js.map": "/Toddle/static/js/main.1e287055.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Toddle/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3701265b.css",
+    "static/js/main.1e287055.js"
+  ]
+}
